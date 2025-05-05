@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">خلفية الساعة</string>
+    <string name="wallpaper_name">ساعة حية</string>
+    <string name="wallpaper_description">تعرض الوقت الحالي كخلفية شاشة حية.</string>
+    <string name="settings_title">إعدادات خلفية الساعة</string>
+    <string name="theme_title">الثيم</string>
+    <string name="theme_summary">اختر المظهر المرئي للساعة</string>
+    <string name="theme_default">افتراضي (أسود وأبيض)</string>
+    <string name="theme_blue">أزرق</string>
+    <string name="theme_green">أخضر</string>
+</resources>

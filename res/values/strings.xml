@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Clock Wallpaper</string>
+    <string name="wallpaper_name">Live Clock</string>
+    <string name="wallpaper_description">Displays the current time as a live wallpaper.</string>
+    <string name="settings_title">Clock Wallpaper Settings</string>
+    <string name="theme_title">Theme</string>
+    <string name="theme_summary">Choose the visual appearance of the clock</string>
+    <string name="theme_default">Default (Black & White)</string>
+    <string name="theme_blue">Blue</string>
+    <string name="theme_green">Green</string>
+</resources>

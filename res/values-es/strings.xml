@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fondo de Pantalla Reloj</string>
+    <string name="wallpaper_name">Reloj Animado</string>
+    <string name="wallpaper_description">Muestra la hora actual como fondo de pantalla animado.</string>
+</resources>
